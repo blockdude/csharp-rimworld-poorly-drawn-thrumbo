@@ -3,7 +3,7 @@
 
 
   <ThingDef ParentName="AnimalThingBase">
-    <defName>PoorlyDrawnThrumbo</defName>
+    <defName>Poorly_Drawn_Thrumbo</defName>
     <label>poorly drawn thrumbo</label>
     <devNote>misc</devNote>
     <description>A gigantic, poorly drawn creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally poorly drawn, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak.</description>
@@ -114,9 +114,9 @@
   </ThingDef>
 
   <PawnKindDef ParentName="AnimalKindBase">
-    <defName>PoorlyDrawnThrumbo</defName>
+    <defName>Poorly_Drawn_Thrumbo</defName>
     <label>poorly drawn thrumbo</label>
-    <race>PoorlyDrawnThrumbo</race>
+    <race>Poorly_Drawn_Thrumbo</race>
     <combatPower>500</combatPower>
     <canArriveManhunter>false</canArriveManhunter>
     <ecoSystemWeight>1</ecoSystemWeight>
@@ -125,7 +125,7 @@
         <label>thrumbo calf</label>
         <labelPlural>thrumbo calves</labelPlural>
         <bodyGraphicData>
-          <texPath>Things/Pawn/Animal/Thrumbo/Thrumbo</texPath>
+          <texPath>Thrumbo/Thrumbo/Poorly_Drawn_Thrumbo</texPath>
           <drawSize>2.5</drawSize>
           <shadowData>
             <volume>(0.4, 0.3, 0.3)</volume>
@@ -139,7 +139,7 @@
       </li>
       <li>
         <bodyGraphicData>
-          <texPath>Things/Pawn/Animal/Thrumbo/Thrumbo</texPath>
+          <texPath>Thrumbo/Thrumbo/Poorly_Drawn_Thrumbo</texPath>
           <drawSize>4.0</drawSize>
           <shadowData>
             <volume>(0.7, 0.6, 0.4)</volume>
@@ -153,7 +153,7 @@
       </li>
       <li>
         <bodyGraphicData>
-          <texPath>Things/Pawn/Animal/Thrumbo/Thrumbo</texPath>
+          <texPath>Thrumbo/Thrumbo/Poorly_Drawn_Thrumbo</texPath>
           <drawSize>4.8</drawSize>
           <shadowData>
             <volume>(1, 0.8, 0.5)</volume>
